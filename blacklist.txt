@@ -1,3 +1,10 @@
 #EventID 	Source					Description
-2001		Microsoft Antimalware			Microsoft Antimalware has encountered an error trying to update signatures
+2001		Microsoft_Antimalware			Microsoft Antimalware has encountered an error trying to update signatures
 10009		DCOM					Source DCOM can not be found. 
+7038		Service_Control_Manager			The WerSvc
+1111		UmrdpService				Driver Dell MFP Laser 3115cn PCL6 
+10010		DCOM					The description for Event ID 
+56		TermDD					The Terminal Server security layer 
+4		Kerberos				The Kerberos client received a KRB_AP_ERR_MODIFIED error 
+5788		NETLOGON				Attempt to update HOST Service Principal Names (SPNs) of the computer object in Active Directory failed. 
+5789		NETLOGON				Attempt to update HOST Service Principal Names (SPNs) of the computer object in Active Directory failed. 
