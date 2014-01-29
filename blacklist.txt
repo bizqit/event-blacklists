@@ -1,3 +1,3 @@
 #EventID 	Source					Description
-2001		Microsoft_Antimalware			Microsoft Antimalware has encountered an error trying to update signatures
+2001		Microsoft Antimalware			Microsoft Antimalware has encountered an error trying to update signatures
 10009		DCOM					Source DCOM can not be found. 
