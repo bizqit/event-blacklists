@@ -1,6 +1,7 @@
 #EventID 	Source					Description
 2001		Microsoft_Antimalware			Microsoft Antimalware has encountered an error trying to update signatures
 10009		DCOM					Source DCOM can not be found. 
+10006		DCOM					Source DCOM can not be found. 
 7038		Service_Control_Manager			The WerSvc
 1111		UmrdpService				Driver Dell MFP Laser 3115cn PCL6 
 10010		DCOM					The description for Event ID 
